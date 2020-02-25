@@ -12,9 +12,7 @@ Author: Michele Biondi
 
 
 
-
 Date: Feb 25, 2020
-
 
 
 
@@ -26,35 +24,27 @@ Version: 1
 
 
 
-
 Status: In Process
-
 
 
 
 Last changes:
 
 
-
 -Kicking has been added
-
 
 
 -The system distributes more coins, the items become more expensive
 
 
 
-
 Latest commands:
-
 
 
 -Pet Store
 
 
-
 -Show Pet Store Inventory
-
 
 
 
@@ -65,4 +55,4 @@ Everything else
 
 I hope this could help you, if you have any questions, please contact on instagram username: Mici.17
 
-Sincerly Michele Biondi
+Sincerely Michele Biondi
