@@ -9,16 +9,54 @@ Project details
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 Author: Michele Biondi 
+
+
+
+
 Date: Feb 25, 2020
+
+
+
+
+
+
+
 Version: 1
+
+
+
+
+
 Status: In Process
+
+
+
+
 Last changes:
+
+
+
 -Kicking has been added
+
+
+
 -The system distributes more coins, the items become more expensive
 
+
+
+
 Latest commands:
+
+
+
 -Pet Store
+
+
+
 -Show Pet Store Inventory
+
+
+
 
 This Project was made at the BBBaden School Wiesenstrasse 325400 Baden
 
