@@ -3,6 +3,7 @@
 Welcome to my Discord Bot. That was an assignment for the Lern Atelier 2019 - 2020. The project is not finished, I will edit it a couple of times in the near future.
 
 If you want to add my bot to your server click this link: 
+
 https://discordapp.com/api/oauth2/authorize?client_id=664000851811106837&permissions=0&scope=bot
 
 Project details
